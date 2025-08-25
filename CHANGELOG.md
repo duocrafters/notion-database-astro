@@ -1,5 +1,11 @@
 # @duocrafters/notion-database-zod
 
+## 0.4.3
+
+### Patch Changes
+
+- a929e99: Change path to downloaded images
+
 ## 0.4.2
 
 ### Patch Changes

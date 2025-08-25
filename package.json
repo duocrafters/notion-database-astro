@@ -1,6 +1,6 @@
 {
   "name": "@duocrafters/notion-database-astro",
-  "version": "0.4.2",
+  "version": "0.4.3",
   "license": "MIT",
   "description": "A Astro loader for Notion database",
   "scripts": {
