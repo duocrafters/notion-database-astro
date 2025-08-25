@@ -1,5 +1,16 @@
 # @duocrafters/notion-database-zod
 
+## 0.3.0
+
+### Minor Changes
+
+- 4486ee0: UPdate Notion to Zod library
+
+### Patch Changes
+
+- Updated dependencies [4486ee0]
+  - @duocrafters/notion-database-zod@0.3.0
+
 ## 0.2.0
 
 ### Minor Changes
