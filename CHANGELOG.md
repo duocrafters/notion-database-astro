@@ -1,5 +1,11 @@
 # @duocrafters/notion-database-zod
 
+## 0.4.1
+
+### Patch Changes
+
+- c5350a9: Change lib name
+
 ## 0.4.0
 
 ### Minor Changes
