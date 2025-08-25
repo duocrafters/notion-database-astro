@@ -1,1 +1,1 @@
-export const add = () => 1 + 1;
+export { notionLoader } from './loader.js';

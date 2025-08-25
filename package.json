@@ -13,6 +13,7 @@
     "local-release": "changeset version && changeset publish",
     "prepublishOnly": "npm run ci"
   },
+  "author": "Vaduo Consulting",
   "keywords": [
     "astro",
     "zod",
@@ -37,5 +38,13 @@
     "prettier": "^3.6.2",
     "typescript": "^5.9.2",
     "vitest": "^3.2.4"
+  },
+  "dependencies": {
+    "@duocrafters/notion-database-zod": "^0.4.1",
+    "@notionhq/client": "^2.2.15",
+    "astro": "^5.0.3",
+    "image-type": "^6.0.0",
+    "rehype-highlight": "^7.0.2",
+    "rehype-mermaid": "^3.0.0"
   }
 }
