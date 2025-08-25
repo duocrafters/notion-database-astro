@@ -25,10 +25,7 @@ export const downloadImage = async (
   return outputFileName;
 };
 
-const distFolder = resolve(
-  import.meta.dirname,
-  '../../../../../public/images/blogs',
-);
+const distFolder = resolve(process.cwd(), 'public/images/blogs');
 
 const isImgElement = (node: ElementContent) =>
   node.type === 'element' && node.tagName === 'img' && !!node.properties?.src;
