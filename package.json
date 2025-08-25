@@ -1,6 +1,6 @@
 {
   "name": "@duocrafters/notion-database-zod",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "license": "MIT",
   "description": "A Astro loader for Notion database",
   "scripts": {
@@ -40,7 +40,7 @@
     "vitest": "^3.2.4"
   },
   "dependencies": {
-    "@duocrafters/notion-database-zod": "^0.4.1",
+    "@duocrafters/notion-database-zod": "^0.4.0",
     "@notionhq/client": "^2.2.15",
     "astro": "^5.0.3",
     "image-type": "^6.0.0",

@@ -1,5 +1,16 @@
 # @duocrafters/notion-database-zod
 
+## 0.4.0
+
+### Minor Changes
+
+- 1851b89: Update @duocrafters/notion-database-zod
+
+### Patch Changes
+
+- Updated dependencies [1851b89]
+  - @duocrafters/notion-database-zod@0.4.0
+
 ## 0.3.0
 
 ### Minor Changes
