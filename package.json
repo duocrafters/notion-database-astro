@@ -1,5 +1,5 @@
 {
-  "name": "@duocrafters/notion-database-zod",
+  "name": "@duocrafters/notion-database-astro",
   "version": "0.4.0",
   "license": "MIT",
   "description": "A Astro loader for Notion database",
