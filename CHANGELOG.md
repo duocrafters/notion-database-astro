@@ -1,5 +1,11 @@
 # @duocrafters/notion-database-zod
 
+## 0.4.2
+
+### Patch Changes
+
+- 2a62b3f: Format file before release
+
 ## 0.4.1
 
 ### Patch Changes
